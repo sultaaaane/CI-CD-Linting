@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "eslint": "^9.39.1",
+    "prettier": "^3.6.2"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "format:check": "prettier --check ."
+  }
+}
